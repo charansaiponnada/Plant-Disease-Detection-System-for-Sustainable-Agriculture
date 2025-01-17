@@ -4,12 +4,7 @@
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Snapshots](#snapshots)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The **Plant Disease Detection System for Sustainable Agriculture (P2)** is an innovative project designed to help farmers and agricultural practitioners identify plant diseases early, leading to better management of crops and improved yields. By leveraging machine learning techniques and image processing, this system analyzes images of crops to predict potential diseases and provide actionable recommendations. The system aims to promote sustainable farming practices and reduce the reliance on harmful pesticides.
@@ -28,5 +23,6 @@ The **Plant Disease Detection System for Sustainable Agriculture (P2)** is an in
 - **Recommendation Engine**: After detecting the disease, the system provides actionable recommendations for disease management.
 - **User-Friendly Dashboard**: A simple, easy-to-navigate dashboard for accessing features.
 - **Real-time Results**: Immediate feedback on uploaded images, displaying results and suggestions.
+  
 
 
